@@ -3,3 +3,5 @@
 Package: dedupe
 dedupe is a python library that uses machine learning to perform fuzzy matching, deduplication and entity resolution quickly on structured data.
 
+references to:
+https://vintasoftware.github.io/deduplication-slides/
